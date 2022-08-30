@@ -144,6 +144,10 @@ h4{
     transform: translateY(-5px);
 }
 
+.super{
+    background-image: linear-gradient(to right top, #32dc21, #00c898, #00abf5, #0082ff, #2c3ce1);
+}
+
 /* -------Offer------- */
 
 .offer{
